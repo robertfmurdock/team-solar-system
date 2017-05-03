@@ -53,8 +53,24 @@ similar size or multiple projects of smaller size fill the vacancy.
 
 To help illustrate this concept, let us think of projects as sized in this way:
 
- - A major project takes 5-8 devs
+ - A major project takes 5-8 devs, or 3-4 pair
  
- - A minor project takes 3-4 devs
+ - A minor project takes 3-4 devs, or 2 pair
  
- - A micro project takes 1-2 devs
+ - A micro project takes 1-2 devs, or 1 pair
+ 
+ 
+Teams need the ability to grow and shrink in size in order to facilitate organizational change. That said, a normal sized 
+team might be 4 pairs large. A team with four pairs can take on:
+
+- One major project
+- Two minor projects
+- One minor project and a few micro projects
+
+If a team has more than one project, then it is left to that team's discretion how to distribute work among the team's 
+members... with the expectation that as time passes, all members of the team will gain experience on all projects.
+
+Therefore, the team itself needs to be able to manage work allocation - clients cannot be promised specific individuals 
+will work 100% of their time on the project. However, clients *can* be promised that the knowledge of specific team 
+members is always available to the team, and the team can highlight processes that enforce this knowledge transfer 
+(colocation, slack, shared-stand-ups, etc).  
