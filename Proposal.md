@@ -70,7 +70,13 @@ team might be 4 pairs large. A team with four pairs can take on:
 If a team has more than one project, then it is left to that team's discretion how to distribute work among the team's 
 members... with the expectation that as time passes, all members of the team will gain experience on all projects.
 
-Therefore, the team itself needs to be able to manage work allocation - clients cannot be promised specific individuals 
+Therefore, the team itself needs to be able to manage work assignment - clients cannot be promised specific individuals 
 will work 100% of their time on the project. However, clients *can* be promised that the knowledge of specific team 
 members is always available to the team, and the team can highlight processes that enforce this knowledge transfer 
-(colocation, slack, shared-stand-ups, etc).  
+(co-location, slack, shared-stand-ups, etc).
+
+Another change that naturally follows, is that growth, in the sense of adding work capacity, should be spread 
+among teams. Smaller teams should be prioritized to get them to a comfortable level, and large teams should grow 
+to the point that they ought to split into two smaller teams. If the minimum team size is
+two pair, and the absolute maximum is six pair, then teams should aim to grow to five to six pair before splitting, and 
+the split should occur as 1-2 additional resources are added.
