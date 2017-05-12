@@ -90,6 +90,7 @@ There are a number of related processes that we believe will allow us to create 
  - "A Team Can Have More Than One Project"
  - "Team Mitosis"
  - "Cohesive Teams"
+ - "Continuous Change"
  
 The following sections will describe these processes in more detail. 
  
@@ -129,3 +130,12 @@ minimum team size of two pair (four people), and a maximum team size of six pair
 and swapping a team member with one from another team becomes a fairly radical change. Twelve people is likely the 
 absolute maximum number of people a team architecture discussion can support. These limits are recommendations, and can 
 be flexed according to needs in context.
+
+Continuous Change
+-----------------
+
+This is a principle that a team needs to vary its composition with regularity in order to stay fresh. A healthy team is 
+able to add team members without compromising its integrity. A healthy team is also able to adjust as team members 
+leave. Of course, there are limits to how much of a team can change within a time period without negatively affecting 
+the dynamic. We'll probably want to put a metric together that highlights these change boundaries, possibly one that 
+acknowledges that growth is less costly then reduction.
