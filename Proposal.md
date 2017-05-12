@@ -80,3 +80,52 @@ among teams. Smaller teams should be prioritized to get them to a comfortable le
 to the point that they ought to split into two smaller teams. If the minimum team size is
 two pair, and the absolute maximum is six pair, then teams should aim to grow to five to six pair before splitting, and 
 the split should occur as 1-2 additional resources are added.
+
+Process Modules
+===============
+
+There are a number of related processes that we believe will allow us to create teams with the desired properties. 
+
+ - "Bring Work to the Team"
+ - "A Team Can Have More Than One Project"
+ - "Team Mitosis"
+ - "Cohesive Teams"
+ 
+The following sections will describe these processes in more detail. 
+ 
+ 
+Bring Work To The Team
+----------------------
+
+This is the practice of establishing a team independent of a project. When a project ends, a new project will be 
+needed to fill the void. Teams are not created in order to fulfill a project and do not disband when a project ends. The
+principal benefit of this process is team stability.
+  
+A Team Can Have More Than One Project
+-------------------------------------
+
+As the title implies, this is the practice of allowing one team to work on more than one project. This has a number of
+benefits, including:
+
+ - Giving team members more opportunities to work on different kinds of projects
+ - Smaller projects benefit from access to the experience of more team members
+ - Teams adopt more responsibility for managing when each team member works on each project
+ 
+Team Mitosis
+------------
+
+This is a process to enable team growth. Over time, a team adds members and projects until it hits a size where it can 
+divide into two teams. Because project work will usually not become available at the same schedule as team members are 
+added, a team will likely want a "skunkwork" project or two to work on while the team has more members then paying 
+work. This may be thought of as a "distributed bench" - rather then having an idle team called the "bench", 
+each team grows extra capacity.
+
+Cohesive Teams
+--------------
+
+This is a guideline to help ensure that teams do not grow to unwieldy sizes, nor shrink to a point that makes them 
+inflexible. In order to support the team properties we desire and the processes that support then, we recommend a 
+minimum team size of two pair (four people), and a maximum team size of six pair (twelve people). Any smaller then four 
+and swapping a team member with one from another team becomes a fairly radical change. Twelve people is likely the 
+absolute maximum number of people a team architecture discussion can support. These limits are recommendations, and can 
+be flexed according to needs in context.
