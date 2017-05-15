@@ -1,5 +1,3 @@
-
-  
 The Big Idea
 ============
 
@@ -40,47 +38,6 @@ culture is being able to teach and test its values on new members. While we want
 to be limited, we want the team to be well-practiced at adoption.
 
 
-What then must change?
-----------------------
-
-
-The first and biggest change is that the Team to Project relationship must be adjusted.
-
-Before, a team was formed to execute a project and disbanded when the project finishes; the relationship was 1:1.
- 
-After the change, a team is formed and then granted one *or more* projects. As each project completes, a project of 
-similar size or multiple projects of smaller size fill the vacancy.
-
-To help illustrate this concept, let us think of projects as sized in this way:
-
- - A major project takes 5-8 devs, or 3-4 pair
- 
- - A minor project takes 3-4 devs, or 2 pair
- 
- - A micro project takes 1-2 devs, or 1 pair
- 
- 
-Teams need the ability to grow and shrink in size in order to facilitate organizational change. That said, a normal sized 
-team might be 4 pairs large. A team with four pairs can take on:
-
-- One major project
-- Two minor projects
-- One minor project and a few micro projects
-
-If a team has more than one project, then it is left to that team's discretion how to distribute work among the team's 
-members... with the expectation that as time passes, all members of the team will gain experience on all projects.
-
-Therefore, the team itself needs to be able to manage work assignment - clients cannot be promised specific individuals 
-will work 100% of their time on the project. However, clients *can* be promised that the knowledge of specific team 
-members is always available to the team, and the team can highlight processes that enforce this knowledge transfer 
-(co-location, slack, shared-stand-ups, etc).
-
-Another change that naturally follows, is that growth, in the sense of adding work capacity, should be spread 
-among teams. Smaller teams should be prioritized to get them to a comfortable level, and large teams should grow 
-to the point that they ought to split into two smaller teams. If the minimum team size is
-two pair, and the absolute maximum is six pair, then teams should aim to grow to five to six pair before splitting, and 
-the split should occur as 1-2 additional resources are added.
-
 Process Modules
 ===============
 
@@ -102,11 +59,11 @@ This is the practice of establishing a team independent of a project. When a pro
 needed to fill the void. Teams are not created in order to fulfill a project and do not disband when a project ends. The
 principal benefit of this process is team stability.
   
-A Team Can Have More Than One Project
+Smart, Multi-Project Teams
 -------------------------------------
 
-As the title implies, this is the practice of allowing one team to work on more than one project. This has a number of
-benefits, including:
+This is the practice of allowing a team to work on more than one project, and manage how the work is distributed among 
+its members. This has a number of benefits, including:
 
  - Giving team members more opportunities to work on different kinds of projects
  - Smaller projects benefit from access to the experience of more team members
@@ -139,3 +96,23 @@ able to add team members without compromising its integrity. A healthy team is a
 leave. Of course, there are limits to how much of a team can change within a time period without negatively affecting 
 the dynamic. We'll probably want to put a metric together that highlights these change boundaries, possibly one that 
 acknowledges that growth is less costly then reduction.
+
+Illustrations
+=============
+
+For the sake of illustration, let us think of projects as sized in this way:
+
+ - A major project takes 5-8 devs, or 3-4 pair
+ 
+ - A minor project takes 3-4 devs, or 2 pair
+ 
+ - A micro project takes 1-2 devs, or 1 pair
+ 
+ 
+Teams need the ability to grow and shrink in size in order to facilitate organizational change. That said, a normal sized 
+team might be 4 pairs large. A team with four pairs can take on:
+
+- One major project
+- Two minor projects
+- One minor project and a few micro projects
+
