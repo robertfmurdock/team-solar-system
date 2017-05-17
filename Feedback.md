@@ -1,6 +1,7 @@
 Tom P
 -----
 
+- Very understandable! Tom felt he had a good handle on the approach from the document alone.
 - Bench thing is interesting and exciting
 - Bench as distributed with skunkworks is important to the model (greases the system)
 - Rollout; apply to one team first and see that the team can work *and be managed* in that fashion
