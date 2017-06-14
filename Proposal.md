@@ -116,3 +116,9 @@ team might be 4 pairs large. A team with four pairs can take on:
 - Two minor projects
 - One minor project and a few micro projects
 
+To Do:
+
+- illustration showing how managing the team to project relationship can work over 12 months
+- illustration highlighting company growth rate and how it is distributed over many teams over time
+- illustration detailing options for dealing with on-site work
+- illustration detailing mega projects that require multiple teams
