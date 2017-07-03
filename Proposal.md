@@ -122,3 +122,6 @@ To Do:
 - illustration highlighting company growth rate and how it is distributed over many teams over time
 - illustration detailing options for dealing with on-site work
 - illustration detailing mega projects that require multiple teams
+
+
+!(Scenario 1.png)
