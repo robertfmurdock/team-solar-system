@@ -124,4 +124,4 @@ To Do:
 - illustration detailing mega projects that require multiple teams
 
 
-![Scenario Image](./Scenario 1.png)
+![Scenario Image]("/Scenario 1.png")
