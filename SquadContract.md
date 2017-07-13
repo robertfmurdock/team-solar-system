@@ -46,7 +46,7 @@ Tools
 Squad Elasticity Scale
 ----------------------
 
-0 - No chance is possible for the squad currently - the Squad needs time to gel
+0 - No change is possible for the squad currently - the Squad needs time to gel
 
 1 - The Squad can handle one new member *or* one member rotation.
 
