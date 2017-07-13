@@ -4,6 +4,7 @@ Roles
 Squad Captain
 -------------
 
+- Serves the Squad members
 - Balances development of squad with project needs
 - Is responsible for co-ordinating squad members and projects
 - Is responsible for detecting and expressing squad needs, current and upcoming
@@ -13,6 +14,7 @@ Squad Captain
 Strategist
 ----------
 
+- Serves the Squad Captains
 - Matches squads to projects
 - Determines which squads grow
 - Gets final call about ending a squad and folding its members into other squads
@@ -113,4 +115,17 @@ If the squad had growth of one pair two months ago, and one pair last month:
 | 5            | 0          |
 | 6            | 1          |
 | 7            | 1          |
+
+Squad Handicaps
+---------------
+
+Some squads haven't reached a state where they can be used as effectively as intended. This can happen for a few reasons, including:
+
+  - the squad has no captain
+  - the squad is segregated in some way, and thus members do not have strong relationships across those boundaries
+  - the squad has developed a hierarchy and / or knowledge silos
+
+When these or similar things have occurred, normal projections of the squad's elasticity over time will be too optimistic. In these cases, reducing the elasticity value by one should produce a more realistic expectation. Of course, these projections should be affirmed by the Squad Captain where possible.
+
+The Squad Captain and Strategist should focus on teams with known handicaps and work to eliminate these issues or disband the squad.
 
