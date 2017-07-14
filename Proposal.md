@@ -1,13 +1,18 @@
 The Big Idea
 ============
 
-To create stable teams with predictable rotation of new team members in and out. 
+To create stable, fluid teams.
   
   
 By "stable", we mean teams that will
     
 - Survive the end of a project
 - Have a plurality of old team members when new team members are added
+ 
+By "fluid", we mean teams that have
+
+- periodically will add new team members to grow the size of the team
+- predictable swapping of an existing team member for a new one, where the existing team member moves to another team
  
 By "predictable", we mean rotation that
 
@@ -30,7 +35,7 @@ Therefore, we want to create teams that can pay down most of that cost early in 
 We think that this can create deeper team relationships, allow more opportunities for on-the-job mentoring, and let
   teams consider process experiments over a longer term.
 
-Then... why do we want to rotate members through teams?
+Then... why do we want to rotate members through teams? Why is fluidity desirable?
 -------------------------------------
 
 While having a stable team culture is very valuable, we want to avoid having a *stagnant* team. An important part of any 
