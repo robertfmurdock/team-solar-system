@@ -26,12 +26,14 @@ I joined a stable, fluid squad shortly after joining the company, and within thr
 Seasoned Developer
 ------------------
 
-I've had a lot of process fights over the years, and so I was relieved to work on a squad that had an established rhythm when I joined. It wasn't perfectly to my taste, but the squad listened to my feedback and we've been trying new things each month to help improve the process. I also greatly appreciate knowing ahead of time when squad members are going to be rotated to other squads, because it reminds us to always be trying to get new squad members ready to take over the roles of old ones. This system has removed a lot of ambiguity and stress from my life.
+I've had a lot of process fights over the years, and so I was relieved to work on a squad that had an established rhythm when I joined. It wasn't perfectly to my taste, but the squad listened to my feedback and we've been trying new things each month to help improve the process. I also greatly appreciate knowing ahead of time when squad members are going to be rotated to other squads, because it reminds us to groom new squad members to take over the roles of the departing. This system has removed a lot of ambiguity and stress from my life by making things more predictable.
 
 Experience Architect
 --------------------
 
+Working with established squads has made dealing with the ambiguities of design work much easier - because they're not storming with each other, its been easier to settle on shared business language for the project. They've also become very practiced at repeating back to me what the design goals are... because they know they're going to have to share those goals with other developers. I know when I'm working with a squad, my work is better reflected in the final product.
 
 Delivery Specialist
 -------------------
 
+Stable, fluid squads give me a lot of flexibility. Team member goes on vacation for a month? We've been cross-training... we'll be ok. Tech lead suddenly quits and joins a start-up? We've been grooming the next tech-lead for a while anyway. Because the squads help eliminate silos of knowledge, its smoothed the velocity of all the projects the squad is working on. And, working with the Squad Captain, I always know exactly how much capacity I'm going to get, week to week. When my product owner rattles me for extra capacity or velocity, the elasticity estimate tells me when the squad can grow, and the Squad Captain helps me distribute the squad in a way that can sooth the product owners concerns.
