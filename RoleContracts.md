@@ -1,27 +1,29 @@
 Role Contracts
 ==============
 
+Here are roles related to working within the stable-fluid team model. Parenthetical statements are the related process module to the responsibility.
+
 Squad Captain
 -------------
 
 - Serves the Squad members
 - Balances development of squad with project needs
-- Is responsible for co-ordinating squad members and projects
-- Is responsible for detecting and expressing squad needs, current and upcoming
-- Is responsible for reporting squad elasticity: ability to grow or accept change.
+- Is responsible for co-ordinating squad members and projects ("Smart, Multi-Project Teams")
+- Is responsible for detecting and expressing squad needs, current and upcoming ("Cohesive Teams")
+- Is responsible for reporting squad elasticity: ability to grow or accept change ("Continuous Change")
 - Is responsible for co-ordinating with other squads to fill pressing technical gaps.
 
 Strategist
 ----------
 
 - Serves the Squad Captains
-- Matches squads to projects
-- Determines which squads grow
-- Gets final call about ending a squad and folding its members into other squads
-- Co-ordinates inter-squad relations
-- Works with squad captains to plan squad splits
+- Matches squads to projects ("Bring Work To The Team")
+- Determines which squads grow ("Team Mitosis")
+- Works with squad captains to plan squad splits ("Team Mitosis")
+- Gets final call about ending a squad and folding its members into other squads ("Cohesive Teams")
 - must respect elasticity limits reported by squad captains
-- if conditions require that elasticity limits be violated, they will coordinate with the Squad Captain to determine the best course of action
+- if conditions require that elasticity limits be violated, they will coordinate with the Squad Captain to determine the best course of action ("Cohesive Teams")
+- May help co-ordinate inter-squad relations
 
 
 Squad Needs

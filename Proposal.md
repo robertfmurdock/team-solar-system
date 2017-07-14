@@ -49,7 +49,7 @@ Process Modules
 There are a number of related processes that we believe will allow us to create teams with the desired properties. 
 
  - "Bring Work to the Team"
- - "A Team Can Have More Than One Project"
+ - "Smart, Multi-Project Teams"
  - "Team Mitosis"
  - "Cohesive Teams"
  - "Continuous Change"
@@ -65,7 +65,7 @@ needed to fill the void. Teams are not created in order to fulfill a project and
 principal benefit of this process is team stability.
   
 Smart, Multi-Project Teams
--------------------------------------
+--------------------------
 
 This is the practice of allowing a team to work on more than one project, and manage how the work is distributed among 
 its members. This has a number of benefits, including:
