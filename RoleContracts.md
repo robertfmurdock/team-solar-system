@@ -31,8 +31,8 @@ Squad Needs
 
 Here are the needs we expect a Squad Captain to take into account:
   - Ensuring that the Squad has a tech lead, and sufficient tech leadership for the projects at hand
-  - Communicating about any role vacancies a squad might have
   - Ensuring that the Squad is grooming a new tech lead for when the current one rotates out
+  - Communicating about any other role vacancies a squad might have
   - Be aware of any Squad members quality of life issues
   - Being aware of any gaps in the squad's technical capabilities in relation to scheduled project work
 
