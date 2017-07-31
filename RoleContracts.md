@@ -34,15 +34,12 @@ Account Manager
 - Brings upcoming projects to Strategist
 - Once a project is assigned to a squad, works with the Squad Captain to meet client needs
 
-
 Project Lifecycle
 =================
 
 1. An Account Manager brings a new project to the Strategist.
 2. The Strategist assigns the project to a Squad. If growth is needed, the Strategist coordinates with the Squad Captain on when new squad members are added. 
 3. Squad Captains work with the Account Manager to fulfill project.
- 
-
 
 Squad Needs
 ===========
