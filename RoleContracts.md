@@ -11,7 +11,9 @@ Squad Captain
 - Is responsible for coordinating squad members and projects ("Smart, Multi-Project Teams")
 - Is responsible for detecting and expressing squad needs, current and upcoming ("Cohesive Teams")
 - Is responsible for reporting squad elasticity: ability to grow or accept change ("Continuous Change")
+- Is responsible for reporting squad health.
 - Is responsible for coordinating with other squads to fill pressing technical gaps.
+- Has final say on changes to squad composition (new people, rotations, etc).
 
 Strategist
 ----------
