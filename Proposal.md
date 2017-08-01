@@ -129,6 +129,6 @@ To Do:
 - illustration detailing mega projects that require multiple teams
 
 
-![Scenario Image](/Scenario%201.png)
+![Scenario Image](Scenario%201.png)
 
-![Scenario Image](/Scenario%202.png)
+![Scenario Image](Scenario%202.png)
