@@ -1,9 +1,7 @@
 Squad Composition
 =================
 
-The team model is functional independent of how squads are composed. However, determining squad composition does affect how projects are allocated to the Squad. Here's why:
-
-Projects typically have role requirements: the project has need for X developers, Y DX, and Z DL.
+The team model is functional independent of how squads are composed. However, determining squad composition does affect how projects are allocated to the Squad. This is because projects typically have role requirements: the project has need for X developers, Y DX, and Z DL. Whether the Strategist has to take this into account depends on squad composition.
 
 There are two principal ways a Squad can be organized: monorole and multirole.
 
@@ -30,6 +28,6 @@ A multirole squad is a squad that is composed of multiple roles, proportioned to
  - when a squad is assigned a project that has unusual role requirements (needs more DX than dev, for example), it may face growth problems within the role inside the squad
  - Delivery and DX will be better normed to the dev team, no friction on project start
  - Rotation of minority roles from one squad to another causes friction
- - squad Elasticity will not be representative of growing minority roles
+ - Squad Elasticity will not be representative of minority roles
  
  ![Multirole Figure 1](MultiroleFig1.png)
